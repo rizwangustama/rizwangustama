@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Hi there 👋,</h3>
   <p>Welcome to My Profile</p>
-  <p>Hi, I'm Rizwan Gustama, I'm a Front End Web Developer. Check <a href="htttps://vandora.id">ℹ️</a> For More Information.</p>
+  <p>Hi, I'm Rizwan Gustama, I'm a Front End Web Developer. Check <a href="htttps://vandora.id">ℹ️ For More Information.</a></p>
 </div>
