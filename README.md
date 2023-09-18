@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi, I'm Rizwan Gustama👋 -->
 
 <!--
 **rizwangustama/rizwangustama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,17 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h3>Hi there 👋,</h3>
+  <h3>Hi, I'm Rizwan Gustama 👋,</h3>
   <p>Welcome to My Profile</p>
-  <p>Hi, I'm Rizwan Gustama, I'm a Front End Web Developer. Check <a href="htttps://vandora.id">ℹ️ For More Information.</a></p>
+  <p>I'm a Front End Web Developer. Check <a href="htttps://vandora.id">ℹ️ For More Information.</a></p>
 </div>
-
-
-
-
-# Hi, I'm Daffa Harizal Fitri 👋
-
-⚡Frontend Engineer Enthusiast
 
 ### 📊&nbsp;GitHub Analytics
 
@@ -37,24 +30,28 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Chakra UI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakraui)&nbsp;\
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
-![PostmanAPI](https://img.shields.io/badge/-PostmanAPI-05122A?style=flat&logo=postman)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/daffaharizal/"><img src="https://img.shields.io/badge/-Daffa%20Harizal%20Fitri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:harizal.daffa46@gmail.com"><img src="https://img.shields.io/badge/-harizal.daffa46@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/daffa_harizal"><img src="https://img.shields.io/badge/-@daffa_harizal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rizwangustama/"><img src="https://img.shields.io/badge/-Rizwan%20Gustama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rizonegustama@gmail.com"><img src="https://img.shields.io/badge/-rizonegustama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rizwan.gustama"><img src="https://img.shields.io/badge/-@rizwan.gustama-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
