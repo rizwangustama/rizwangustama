@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
 
 <div align="center">
@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 
 ### 📊&nbsp;GitHub Analytics
 
-<div style="display: block">
-  <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizwangustama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizwangustama&layout=compact&langs_count=9&theme=algolia"/>
+<div style="display: flex;">
+  <img height="220em" style="flex: 1;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizwangustama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="220em" style="flex: 1" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizwangustama&layout=compact&langs_count=9&theme=algolia"/>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
@@ -49,7 +48,6 @@ Here are some ideas to get you started:
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/rizwangustama/"><img src="https://img.shields.io/badge/-Rizwan%20Gustama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rizonegustama@gmail.com"><img src="https://img.shields.io/badge/-rizonegustama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
