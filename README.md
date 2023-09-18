@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### 📊&nbsp;GitHub Analytics
 
 <div style="display: flex;">
-  <img height="185em" style="flex: 1;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizwangustama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="185em" style="flex: 1" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizwangustama&layout=compact&langs_count=9&theme=algolia"/>
+  <img height="185em" style="flex: 1;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizwangustama&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="185em" style="flex: 1" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizwangustama&layout=compact&langs_count=9&theme=dark"/>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
